@@ -4,8 +4,8 @@ A clean, modern Flutter application for tracking breakfast and diet plans.
 
 ## App Screenshots
 
-![Home Screen](screenshots/android.jpeg)
-![Diet Categories](screenshots/linux_desktop.jpeg)
+![Home Screen](screenshot/android.jpeg)
+![Diet Categories](screenshot/linux_desktop.jpeg)
 
 ## Features
 
